@@ -1,0 +1,5 @@
+requests==2.22.0
+colorama==0.4.3
+pyshorteners==1.0.1
+youtube_dl==2021.5.16
+wheel==0.36.2
