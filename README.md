@@ -55,7 +55,7 @@ $ sudo python3 main.py
 ```
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deadlysnowman3308/Youtube_Info_v.1/Hackingvila/screenshots/2.PNG" alt="LOGO"/>
+  <img src="https://rawcdn.githack.com/deadlysnowman3308/Youtube_Info_v.1/70374ce0f3fb86de0befcb141bb7634d8d6ca7fb/screenshots/2.PNG" alt="LOGO"/>
 </p>
 
 <br>
