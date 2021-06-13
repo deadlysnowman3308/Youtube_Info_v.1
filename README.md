@@ -1,10 +1,11 @@
 # Youtube_Info_v.1
-### Grab youtube video info, download thumbnail, video, audio &amp; advanced info
-
 
 <br>
 <p align="center">
   <img src="https://rawcdn.githack.com/deadlysnowman3308/Youtube_Info_v.1/3e52cbf06b1b4ba1a7ed9f9c7a22a4165a8c4765/screenshots/1.PNG" alt="LOGO"/>
+  
+  
+  ###   [❗❗] Grab youtube video info, download thumbnail, video, audio & advanced info
 </p>
 
 <br>
