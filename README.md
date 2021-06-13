@@ -49,6 +49,7 @@ $ pip3 install -r requirements.txt
 ## :🏹: Usages :🏹:
 
 ```
+
 $ sudo python3 main.py
 
 ```
