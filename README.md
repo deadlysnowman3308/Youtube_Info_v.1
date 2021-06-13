@@ -40,6 +40,8 @@ $ cd Youtube_Info_v.1
 $ sudo chmod +x *
 
 $ sudo pip3 install -r requirements.txt
+                 or
+$ pip3 install -r requirements.txt
 
 ```
 <br>
